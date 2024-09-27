@@ -90,12 +90,10 @@ Contributions to the project are welcome! If you’d like to improve the code, a
 ---
 
 ## Contact
-
+ 
 Project created by:
 - **[Malcolm Iheremelam - LinkedIn](https://www.linkedin.com/in/malcolm-iheremelam/)**
-- **[Aniediong Etim - LinkedIn](https://www.linkedin.com/in/aniediong-etim-b6224221b)**
-- **[Wokoma Izubundu - LinkedIn](https://www.linkedin.com/in/benedicta-wokoma-25354a245/?)**
-
+- **Tamilore**
 For any questions or collaboration opportunities, feel free to reach out to us on GitHub!
 
 ---
